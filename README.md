@@ -2,11 +2,11 @@
 
 # 🛡️ José David Torres | Jr Security Analyst
 
-📍 Barranquilla, Colombia 🦈🇨🇴 | 📧 jt161137@gmail.com | 🎯 [TryHackMe](https://tryhackme.com/p/jr161137)
+📍 Barranquilla, Colombia 🦈🇨🇴 | 📧 jt161137@gmail.com | 🎯 TryHackMe: jr161137
 
-[[TryHackMe](https://tryhackme-badges.s3.amazonaws.com/jr161137.png)](https://tryhackme.com/p/jr161137)
-[[Duolingo](https://img.shields.io/badge/Duolingo-7_Day_Streak-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/JOSETORRES141289)
-[[GitHub Streak](https://streak-stats.demolab.com?user=jr161137&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2)](https://github.com/jr161137)
+**TryHackMe:** https://tryhackme.com/p/jr161137  
+**Duolingo:** 7 Day Streak - https://www.duolingo.com/profile/JOSETORRES141289  
+**GitHub:** https://github.com/jt161137-sec
 
 **Busco: Pasantía SOC Jr / Security Analyst | Disponible inmediato | Remoto/Híbrido Colombia**
 
